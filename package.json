@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "force-server": "^0.0.8",
+    "forcejs": "^2.0.1"
+  }
+}
